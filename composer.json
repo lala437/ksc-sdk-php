@@ -1,8 +1,8 @@
 {
-    "name": "kscsdk/ksyun_sdk",
+    "name": "lala437/ksyun_sdk",
     "description": "ksyun openapi sdk",
     "type": "library",
-    "homepage": "https://github.com/KscSDK/ksc-sdk-php",
+    "homepage": "https://github.com/lala437/ksc-sdk-php",
     "keywords": [
         "openapi",
         "ksyun"
